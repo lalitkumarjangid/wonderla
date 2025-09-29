@@ -1,0 +1,248 @@
+{
+  "categories": [
+    {
+      "id": "land",
+      "name": "Land",
+      "icon": "ferris-wheel",
+      "count": 72,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "water", 
+      "name": "Water",
+      "icon": "waves",
+      "count": 55,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "kids",
+      "name": "Kids",
+      "icon": "baby",
+      "count": 36,
+      "color": "#8b5cf6"
+    }
+  ],
+ 
+  "rides": [
+    {
+      "id": 1,
+      "name": "Sky Ring",
+      "location": "Kochi",
+      "category": "land",
+      "description": "Shoot up a sky-high tower for a birds-eye view of Wonderla Kochi!",
+      "image": "https://images.unsplash.com/photo-1544547532-8d8866a2b8c4?w=828&q=75",
+      "tags": ["Towering Ride", "Scenic Views"]
+    },
+    {
+      "id": 2,
+      "name": "Mission Interstellar",
+      "location": "Bengaluru", 
+      "category": "land",
+      "description": "Blast through cosmic chaos on a wild, out-of-this-world space ride!",
+      "image": "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?w=828&q=75",
+      "tags": ["Space Theme", "High Speed"]
+    },
+    {
+      "id": 3,
+      "name": "G Fall",
+      "location": "Hyderabad",
+      "category": "land", 
+      "description": "Brace yourself for a heart-pounding, high-speed plunge into a dizzying freefall!",
+      "image": "https://images.unsplash.com/photo-1594736797933-d0d3a0d93b84?w=828&q=75",
+      "tags": ["Free Fall", "Adrenaline Rush"]
+    },
+    {
+      "id": 4,
+      "name": "Wonderla Bamba",
+      "location": "Bhubaneswar",
+      "category": "land",
+      "description": "Perfect for first-time thrill-seekers, this takes you on a spin with sudden drops and bursts of speed that will leave you wanting more!",
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=828&q=75",
+      "tags": ["First Timer Friendly", "Spinning Ride"]
+    },
+    {
+      "id": 7,
+      "name": "Crazy Coaster",
+      "location": "Bengaluru",
+      "category": "land",
+      "description": "Hold on tight as you twist, turn, and dive through this insane steel coaster!",
+      "image": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?w=828&q=75",
+      "tags": ["Roller Coaster", "High Thrill"]
+    },
+    {
+      "id": 8,
+      "name": "Techno Jump",
+      "location": "Kochi",
+      "category": "land",
+      "description": "Leap and bounce to the beat on this high-energy jumping ride!",
+      "image": "https://images.unsplash.com/photo-1522771930-78848d106312?w=828&q=75",
+      "tags": ["Jumping Ride", "Fun Vibes"]
+    },
+    {
+      "id": 9,
+      "name": "Recoil",
+      "location": "Bengaluru",
+      "category": "land",
+      "description": "India's first reverse looping roller coaster! Experience double the adrenaline!",
+      "image": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=828&q=75",
+      "tags": ["Reverse Coaster", "Loop Ride"]
+    },
+    {
+      "id": 10,
+      "name": "Maverick",
+      "location": "Hyderabad",
+      "category": "land",
+      "description": "A thrilling 360° rotation ride that flips you upside down and back!",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=828&q=75",
+      "tags": ["Upside Down", "Full Rotation"]
+    },
+
+    {
+      "id": 11,
+      "name": "Wonder Splash",
+      "location": "Kochi",
+      "category": "water",
+      "description": "Race up a steep incline and hurtle down into a big splash!",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=828&q=75",
+      "tags": ["Water Bogie", "Steep Drop"]
+    },
+    {
+      "id": 12,
+      "name": "Wave Pool",
+      "location": "Bengaluru",
+      "category": "water",
+      "description": "Surf the tides and feel the thrill of ocean waves in this giant pool!",
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=828&q=75",
+      "tags": ["Wave Pool", "Beach Vibes"]
+    },
+    {
+      "id": 13,
+      "name": "Rain Disco",
+      "location": "Hyderabad",
+      "category": "water",
+      "description": "Dance your heart out under a rain shower with vibrant music and lights!",
+      "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=828&q=75",
+      "tags": ["Music", "Dance"]
+    },
+    {
+      "id": 14,
+      "name": "Fun Racers",
+      "location": "Kochi",
+      "category": "water",
+      "description": "Slide down side-by-side tracks and race your friends to the bottom!",
+      "image": "https://images.unsplash.com/photo-1594736797933-d0d3a0d93b84?w=828&q=75",
+      "tags": ["Racing Slides", "Competitive"]
+    },
+    {
+      "id": 15,
+      "name": "Twister",
+      "location": "Bengaluru",
+      "category": "water",
+      "description": "Spin through a giant funnel before splashing into the pool below!",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=828&q=75",
+      "tags": ["Water Slide", "Twist Drop"]
+    },
+    {
+      "id": 16,
+      "name": "Boomerang",
+      "location": "Hyderabad",
+      "category": "water",
+      "description": "Go up and down a massive wall slide that sends you soaring back!",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=828&q=75",
+      "tags": ["Half Pipe", "Water Wall"]
+    },
+    {
+      "id": 17,
+      "name": "Lazy River",
+      "location": "Bhubaneswar",
+      "category": "water",
+      "description": "Float your worries away in a calm and relaxing circular river ride!",
+      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=828&q=75",
+      "tags": ["Relaxing", "Floating Ride"]
+    },
+    {
+      "id": 18,
+      "name": "Water Pendulum",
+      "location": "Kochi",
+      "category": "water",
+      "description": "Slide up and down like a pendulum before splashing into the pool!",
+      "image": "https://images.unsplash.com/photo-1493436539673-db1b71c87cca?w=828&q=75",
+      "tags": ["Swing Ride", "Adrenaline Splash"]
+    },
+
+    {
+      "id": 19,
+      "name": "Flying Jumbo",
+      "location": "Kochi",
+      "category": "kids",
+      "description": "Climb aboard a friendly elephant that takes you on a playful spin!",
+      "image": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=828&q=75",
+      "tags": ["Merry-Go-Round", "Spinning Elephants"]
+    },
+    {
+      "id": 20,
+      "name": "Mini Pirate Ship",
+      "location": "Hyderabad",
+      "category": "kids",
+      "description": "A fun mini version of the giant ship ride made just for kids!",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=828&q=75",
+      "tags": ["Ship Ride", "Mini Adventure"]
+    },
+    {
+      "id": 21,
+      "name": "Magic Mushroom",
+      "location": "Bhubaneswar",
+      "category": "kids",
+      "description": "Colorful spinning mushrooms that lift and drop gently for fun!",
+      "image": "https://images.unsplash.com/photo-1522771930-78848d106312?w=828&q=75",
+      "tags": ["Gentle Ride", "Kids Favorite"]
+    },
+    {
+      "id": 22,
+      "name": "Happy Kangaroo",
+      "location": "Kochi",
+      "category": "kids",
+      "description": "Hop along like a kangaroo with small jumps and big giggles!",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=828&q=75",
+      "tags": ["Bouncing Ride", "Jumping Fun"]
+    },
+    {
+      "id": 23,
+      "name": "Mini Train",
+      "location": "Bengaluru",
+      "category": "kids",
+      "description": "A cute train that takes kids on a joyful tour around the park!",
+      "image": "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?w=828&q=75",
+      "tags": ["Train Ride", "Sightseeing"]
+    },
+    {
+      "id": 24,
+      "name": "Mini Carousel",
+      "location": "Hyderabad",
+      "category": "kids",
+      "description": "Gentle rotating horses and cars for the little ones to enjoy!",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=828&q=75",
+      "tags": ["Classic Ride", "Family Fun"]
+    },
+    {
+      "id": 25,
+      "name": "Frog Hopper",
+      "location": "Bhubaneswar",
+      "category": "kids",
+      "description": "Up and down hops for kids who love a little thrill without fear!",
+      "image": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?w=828&q=75",
+      "tags": ["Mini Drop", "Bouncy Ride"]
+    },
+    {
+      "id": 26,
+      "name": "Balloon Race",
+      "location": "Kochi",
+      "category": "kids",
+      "description": "Fly high in colorful balloons that spin around the sky!",
+      "image": "https://images.unsplash.com/photo-1544547532-8d8866a2b8c4?w=828&q=75",
+      "tags": ["Flying Ride", "Colorful Fun"]
+    }
+  ]
+
+
+}
